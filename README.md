@@ -1,6 +1,6 @@
 # 🛒 Product Recommendation Engine — A/B Experiment Analysis
 
-> **Did adding a recommendation engine increase conversions?**  
+> **Done adding a recommendation engine increase conversions?**  
 > A full experiment lifecycle: schema design → data simulation → SQL analysis → statistical testing → business decision.
 
 ---
