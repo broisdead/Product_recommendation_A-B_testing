@@ -1,6 +1,6 @@
 -- =============================================================================
 -- A/B EXPERIMENT ANALYSIS: PRODUCT RECOMMENDATION ENGINE
--- Author: Data Science Portfolio Project
+-- Author: broisdead/aiyan
 -- Scope:  Full experiment lifecycle — design → data → analysis → decision
 -- Stack:  MySQL 8.0+ (CTEs, window functions, JSON support)
 -- =============================================================================
